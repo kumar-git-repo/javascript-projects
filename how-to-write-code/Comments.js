@@ -15,3 +15,5 @@
    */
 console.log( "single and multi line comments added");
    console.log("Comments make your code more readable by others.");
+console.log(typeof "17");
+console.log("Bruce's Head");

@@ -1,0 +1,11 @@
+{
+  "name": "how-to-write-code",
+  "version": "1.0.0",
+  "description": "test npm install",
+  "main": "Comments.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "author": "kumar",
+  "license": "ISC"
+}
